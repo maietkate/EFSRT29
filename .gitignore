@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+target/
+.vite/
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*.zip
+.vscode/
+.idea/
+.DS_Store
+application-local.properties
+application-secrets.properties
+*.pem
+*.key
